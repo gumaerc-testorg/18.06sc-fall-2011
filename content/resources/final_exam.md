@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-06sc-linear-algebra-fall-2011/febb7eb13ff97fca8cd0e4fc09f3658c_Final_Exam.jpg
+file: /media/courses/18-06sc-linear-algebra-fall-2011/febb7eb13ff97fca8cd0e4fc09f3658c_Final_Exam.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Final Exam
+parent_type: CourseSection
 resourcetype: Image
 title: Final_Exam.jpg
 uid: febb7eb1-3ff9-7fca-8cd0-e4fc09f3658c

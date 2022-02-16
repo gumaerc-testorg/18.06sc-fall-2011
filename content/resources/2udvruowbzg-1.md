@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-06sc-linear-algebra-fall-2011/e70c3934dc6123a02195e95efe70cffa_2uDvRUowBzg.pdf
+file: /media/courses/18-06sc-linear-algebra-fall-2011/e70c3934dc6123a02195e95efe70cffa_2uDvRUowBzg.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: e70c3934-dc61-23a0-2195-e95efe70cffa

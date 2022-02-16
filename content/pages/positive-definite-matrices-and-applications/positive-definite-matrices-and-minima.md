@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Positive Definite Matrices and Applications'
+parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Positive Definite Matrices and Minima
 uid: c75e4546-e980-a4f3-4fba-9c17295b6b7b
@@ -19,7 +22,7 @@ Session Overview
 {{< tdopen >}}
 
 
-In calculus, the second derivative decides whether a critical point of _y_(_x_) is a minimum. For functions of multiple variables, the test is whether a matrix of second derivatives is positive definite. In this session we learn several ways of testing for positive definiteness and also how the shape of the graph of _ƒ_(x) = x_T A_x is determined by the entries of _A_.
+In calculus, the second derivative decides whether a critical point of _y_(_x_) is a minimum. For functions of multiple variables, the test is whether a matrix of second derivatives is positive definite. In this session we learn several ways of testing for positive definiteness and also how the shape of the graph of _ƒ_(x) = x_{{< sup "T" >}} A_x is determined by the entries of _A_.
 
 
 {{< tdclose >}}
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Read Section 6.5 in the 4th or 5th edition.
+*   Read Section 6.5 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

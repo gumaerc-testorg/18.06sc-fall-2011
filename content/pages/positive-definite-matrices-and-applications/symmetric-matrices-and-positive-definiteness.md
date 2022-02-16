@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Positive Definite Matrices and Applications'
+parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Symmetric Matrices and Positive Definiteness
 uid: 83daa789-4c9b-a2c7-ac6c-afe27aef0e1c
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Read Section 6.4 through 6.5 in the 4th or 5th edition.
+*   Read Section 6.4 through 6.5 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

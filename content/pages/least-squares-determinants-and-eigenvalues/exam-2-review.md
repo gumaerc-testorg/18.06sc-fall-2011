@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
+parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Exam 2 Review
 uid: 1d326649-6e08-30e5-7e06-9f94d70f88bb
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Review Chapters 4, 5, and 6 (through Sec. 6.3) plus Sections 8.3 and 8.5 in the 4th edition or Review Chapters 4, 5, and 6 (through Sec. 6.3) plus Sections 10.3 and 10.5 in the 5th edition.
+*   Review Chapters 4, 5, and 6 (through Sec. 6.3) plus Sections 8.3 and 8.5 in the 4{{< sup "th" >}} edition or Review Chapters 4, 5, and 6 (through Sec. 6.3) plus Sections 10.3 and 10.5 in the 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

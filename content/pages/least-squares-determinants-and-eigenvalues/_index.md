@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit II: Least Squares, Determinants and Eigenvalues'
 uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 ---
@@ -10,7 +12,7 @@ uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 
 A graph and its edge-node incidence matrix.
 
-Each component of a vector in Rn indicates a distance along one of the coordinate axes. This practice of dissecting a vector into directional components is an important one. In particular, it leads to the "least squares" method of fitting curves to collections of data. This unit also introduces matrix _eigenvalues_ and _eigenvectors_. Many calculations become simpler when working with a basis of eigenvectors.
+Each component of a vector in R{{< sup "n" >}} indicates a distance along one of the coordinate axes. This practice of dissecting a vector into directional components is an important one. In particular, it leads to the "least squares" method of fitting curves to collections of data. This unit also introduces matrix _eigenvalues_ and _eigenvectors_. Many calculations become simpler when working with a basis of eigenvectors.
 
 The _determinant_ of a matrix is a number characterizing that matrix. This value is useful for determining whether a matrix is singular, computing its inverse, and more.
 

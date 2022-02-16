@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit I: Ax = b and the Four Subspaces'
+parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Exam 1 Review
 uid: e451ffac-351d-687a-8b19-3c0159c4b2a7
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Review Chapters 1, 2, and 3, plus Section 8.2 in the 4th edition or Chapters 1, 2, and 3, plus Section 10.1 in the 5th edition.
+*   Review Chapters 1, 2, and 3, plus Section 8.2 in the 4{{< sup "th" >}} edition or Chapters 1, 2, and 3, plus Section 10.1 in the 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

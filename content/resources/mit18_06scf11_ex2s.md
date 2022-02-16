@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains solution to the problem set related to exam 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-06sc-linear-algebra-fall-2011/c224c7a55a1acaf364d0ff4f01b057b2_MIT18_06SCF11_ex2s.pdf
+file: /media/courses/18-06sc-linear-algebra-fall-2011/c224c7a55a1acaf364d0ff4f01b057b2_MIT18_06SCF11_ex2s.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Exam 2
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_ex2s.pdf
 uid: c224c7a5-5a1a-caf3-64d0-ff4f01b057b2

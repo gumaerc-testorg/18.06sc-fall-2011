@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Final Exam
 uid: 7aadf934-9df8-d886-6462-55a5ab83e424
 ---
@@ -17,7 +19,7 @@ Session Overview
 {{< tdopen >}}
 
 
-Nine questions in a three-hour closed-book exam would be typical for this course at MIT. We try to cover all the way from Ax=0 (the null space and the special solutions) to projections, determinants, eigenvalues, and even a touch of singular values from the eigenvalues of ATA. That is the good matrix of linear algebra: square, symmetric, and positive definite or at least semidefinite.
+Nine questions in a three-hour closed-book exam would be typical for this course at MIT. We try to cover all the way from Ax=0 (the null space and the special solutions) to projections, determinants, eigenvalues, and even a touch of singular values from the eigenvalues of A{{< sup "T" >}}A. That is the good matrix of linear algebra: square, symmetric, and positive definite or at least semidefinite.
 
 
 {{< tdclose >}}

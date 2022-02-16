@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains problem set related to determinant dormulas and
   cofactors.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-06sc-linear-algebra-fall-2011/d4004842b468da7628c422e2e403ba2c_MIT18_06SCF11_Ses2.6prob.pdf
+file: /media/courses/18-06sc-linear-algebra-fall-2011/d4004842b468da7628c422e2e403ba2c_MIT18_06SCF11_Ses2.6prob.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Determinant Formulas and Cofactors
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.6prob.pdf
 uid: d4004842-b468-da76-28c4-22e2e403ba2c

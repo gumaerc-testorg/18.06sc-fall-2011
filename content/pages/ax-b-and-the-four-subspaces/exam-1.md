@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit I: Ax = b and the Four Subspaces'
+parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Exam 1
 uid: f5c6f676-32a0-d7e7-bcdf-bc97569b662f

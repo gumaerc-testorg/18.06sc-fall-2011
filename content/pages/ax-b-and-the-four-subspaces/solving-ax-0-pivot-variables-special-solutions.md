@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit I: Ax = b and the Four Subspaces'
+parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: 'Solving Ax = 0: Pivot Variables, Special Solutions'
 uid: 0689e9a0-f66b-a169-b57a-71e60e59cfa2
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Read Section 3.2 in the 4th or 5th edition.
+*   Read Section 3.2 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

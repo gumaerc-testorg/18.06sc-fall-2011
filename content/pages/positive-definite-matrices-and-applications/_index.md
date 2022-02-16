@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit III: Positive Definite Matrices and Applications'
 uid: 34f596bc-2328-22be-5fba-75646f6970c5
 ---

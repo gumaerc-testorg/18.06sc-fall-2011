@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
+parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Cramer's Rule, Inverse Matrix and Volume
 uid: 86cb2711-cb7c-4313-42de-c1540dfe8ce2
@@ -19,7 +22,7 @@ Session Overview
 {{< tdopen >}}
 
 
-Now we start to use the determinant. Understanding the cofactor formula allows us to show that _A_\-1 = (1/det_A_)_CT_, where _C_ is the matrix of cofactors of _A_. Combining this formula with the equation x = A\-1b gives us Cramer's rule for solving _A_x = b. Also, the absolute value of the determinant gives the volume of a box.
+Now we start to use the determinant. Understanding the cofactor formula allows us to show that _A_{{< sup "\\-1" >}} = (1/det_A_)_C{{< sup "T" >}}_, where _C_ is the matrix of cofactors of _A_. Combining this formula with the equation x = A{{< sup "\\-1" >}}b gives us Cramer's rule for solving _A_x = b. Also, the absolute value of the determinant gives the volume of a box.
 
 
 {{< tdclose >}}
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Read Section 5.3 in the 4th or 5th edition.
+*   Read Section 5.3 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

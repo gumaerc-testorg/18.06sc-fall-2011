@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
+parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Determinant Formulas and Cofactors
 uid: 172571ec-1468-8c38-e3a6-02925af8e7d9
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Read Section 5.2 in the 4th or 5th edition.
+*   Read Section 5.2 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

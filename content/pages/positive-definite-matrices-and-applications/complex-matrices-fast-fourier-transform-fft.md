@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Positive Definite Matrices and Applications'
+parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Complex Matrices; Fast Fourier Transform (FFT)
 uid: d2f78aa2-97e6-82cc-aea1-20a362c5d934
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Read Section 10.2 through 10.3 in the 4th edition or Section 9.2 and 9.3 in the 5th edition.
+*   Read Section 10.2 through 10.3 in the 4{{< sup "th" >}} edition or Section 9.2 and 9.3 in the 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

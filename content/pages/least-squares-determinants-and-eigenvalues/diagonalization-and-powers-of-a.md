@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
+parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Diagonalization and Powers of A
 uid: dcb9a660-b4e1-e1d4-837b-ad83344a716e
@@ -19,7 +22,7 @@ Session Overview
 {{< tdopen >}}
 
 
-If _A_ has _n_ independent eigenvectors, we can write _A_ = _S_Λ_S_−1, where Λ is a diagonal matrix containing the eigenvalues of _A_. This allows us to easily compute powers of _A_ which in turn allows us to solve difference equations uk+1 = _A_uk.
+If _A_ has _n_ independent eigenvectors, we can write _A_ = _S_Λ_S_{{< sup "−1" >}}, where Λ is a diagonal matrix containing the eigenvalues of _A_. This allows us to easily compute powers of _A_ which in turn allows us to solve difference equations u{{< sub "k+1" >}} = _A_u{{< sub "k" >}}.
 
 
 {{< tdclose >}}
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Read Section 6.2 in the 4th or 5th edition.
+*   Read Section 6.2 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

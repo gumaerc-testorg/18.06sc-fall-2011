@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
+parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Orthogonal Vectors and Subspaces
 uid: fd8c8a4d-fa1b-e88c-ec23-abef203fca2a
@@ -21,7 +24,7 @@ Session Overview
 
 Vectors are easier to understand when they're described in terms of orthogonal bases. In addition, the Four Fundamental Subspaces are orthogonal to each other in pairs.
 
-If _A_ is a rectangular matrix, _A_x = b is often unsolvable. The matrix _ATA_ will help us find a vector x̂ that comes as close as possible to solving _A_x = b.
+If _A_ is a rectangular matrix, _A_x = b is often unsolvable. The matrix _A{{< sup "T" >}}A_ will help us find a vector x̂ that comes as close as possible to solving _A_x = b.
 
 
 {{< tdclose >}}
@@ -41,7 +44,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Read Section 4.1 in the 4th or 5th edition.
+*   Read Section 4.1 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

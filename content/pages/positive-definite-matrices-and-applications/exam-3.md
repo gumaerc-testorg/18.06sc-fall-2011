@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Positive Definite Matrices and Applications'
+parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Exam 3
 uid: 3921e359-ef46-ef69-930f-0c922b456485
@@ -19,7 +22,7 @@ Session Overview
 {{< tdopen >}}
 
 
-This exam starts with a question about singular values. They all equal 1 when ATA = I. Question 2 in the exam uses eigenvalues and eigenvectors to compute powers of A: diagonalize first! 
+This exam starts with a question about singular values. They all equal 1 when A{{< sup "T" >}}A = I. Question 2 in the exam uses eigenvalues and eigenvectors to compute powers of A: diagonalize first! 
 
 
 {{< tdclose >}}

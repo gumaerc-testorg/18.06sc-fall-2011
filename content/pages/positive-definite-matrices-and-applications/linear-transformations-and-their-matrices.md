@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Positive Definite Matrices and Applications'
+parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Linear Transformations and their Matrices
 uid: 9b3392d9-9beb-d110-47c3-6d07bc404bbc
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Read Section 7.1 in the 4th edition or Section 8.1 in the 5th edition.
+*   Read Section 7.1 in the 4{{< sup "th" >}} edition or Section 8.1 in the 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Final Course Review
 uid: a59901ce-cbc5-cc41-0b70-2826dc2ae39b
 ---

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-06sc-linear-algebra-fall-2011/6209c27d7560bd32ef38618739bb8dd2_David_Photo.jpg
+file: /media/courses/18-06sc-linear-algebra-fall-2011/6209c27d7560bd32ef38618739bb8dd2_David_Photo.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Meet the TAs
+parent_type: CourseSection
 resourcetype: Image
 title: David_Photo.jpg
 uid: 6209c27d-7560-bd32-ef38-618739bb8dd2

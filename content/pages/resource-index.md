@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Resource Index
 uid: 754d6be4-ca3c-378b-6c8b-2e4a955ffe64
 ---
@@ -47,7 +49,7 @@ PROBLEM SETS
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-1sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 1.1, 1.2, and 2.1 in the 4th or 5th edition
+Sections 1.1, 1.2, and 2.1 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -82,7 +84,7 @@ Sections 1.1, 1.2, and 2.1 in the 4th or 5th edition
 {{< tdopen >}}
 
 
-Sections 1.3 in the 4th or 5th edition
+Sections 1.3 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 
 
 {{< tdclose >}}
@@ -105,7 +107,7 @@ None
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-2sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 2.2 through 2.3 in the 4th or 5th edition
+Section 2.2 through 2.3 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Recitation: Elimination with Matrices]({{< baseurl >}}/resources/recitation-elimination-with-matrices-1)
@@ -132,7 +134,7 @@ Section 2.2 through 2.3 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-3sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 2.4 through 2.5 in the 4th or 5th edition
+Section 2.4 through 2.5 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Inverse Matrices]({{< baseurl >}}/resources/inverse-matrices-1)
@@ -159,7 +161,7 @@ Section 2.4 through 2.5 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-4sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 2.6 in the 4th or 5th edition
+Section 2.6 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [LU Decomposition]({{< baseurl >}}/resources/lu-decomposition-1)
@@ -186,7 +188,7 @@ Section 2.6 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-5sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 2.7 in the 4th or 5th edition
+Section 2.7 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -219,7 +221,7 @@ Section 2.7 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-6sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 3.1 through 3.2 in the 4th or 5th edition
+Section 3.1 through 3.2 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Vector Subspaces]({{< baseurl >}}/resources/vector-subspaces-1)
@@ -246,7 +248,7 @@ Section 3.1 through 3.2 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-7sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 3.2 in the 4th or 5th edition
+Section 3.2 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Solving Ax=0]({{< baseurl >}}/resources/solving-ax-0-1)
@@ -273,7 +275,7 @@ Section 3.2 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-8sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 3.3 through 3.4 in the 4th or 5th edition
+Section 3.3 through 3.4 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Solving Ax=b]({{< baseurl >}}/resources/solving-ax-b-1)
@@ -300,7 +302,7 @@ Section 3.3 through 3.4 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-9sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 3.5 in the 4th edition or Section 3.4 in the 5th edition
+Section 3.5 in the 4{{< sup "th" >}} edition or Section 3.4 in the 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Basis and Dimension]({{< baseurl >}}/resources/basis-and-dimension-1)
@@ -327,7 +329,7 @@ Section 3.5 in the 4th edition or Section 3.4 in the 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-10sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 3.6 in the 4th edition or Section 3.5 in the 5th edition
+Section 3.6 in the 4{{< sup "th" >}} edition or Section 3.5 in the 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Computing the Four Fundamental Subspaces]({{< baseurl >}}/resources/computing-the-four-fundamental-subspaces-1)
@@ -354,7 +356,7 @@ Section 3.6 in the 4th edition or Section 3.5 in the 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-11sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 3.3 and 8.2 in the 4th edition or Section 3.3 and 10.1 in the 5th edition
+Section 3.3 and 8.2 in the 4{{< sup "th" >}} edition or Section 3.3 and 10.1 in the 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Matrix Spaces]({{< baseurl >}}/resources/matrix-spaces-1)
@@ -381,7 +383,7 @@ Section 3.3 and 8.2 in the 4th edition or Section 3.3 and 10.1 in the 5th editio
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-12sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 8.2 in the 4th edition or Section 10.1 in the 5th edition
+Section 8.2 in the 4{{< sup "th" >}} edition or Section 10.1 in the 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Graphs and Networks]({{< baseurl >}}/resources/graphs-and-networks-1)
@@ -408,7 +410,7 @@ Section 8.2 in the 4th edition or Section 10.1 in the 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-14sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Review Chapters 1, 2, and 3, plus Section 8.2 in the 4th edition or Chapters 1, 2, and 3, plus Section 10.1 in the 5th edition
+Review Chapters 1, 2, and 3, plus Section 8.2 in the 4{{< sup "th" >}} edition or Chapters 1, 2, and 3, plus Section 10.1 in the 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Exam 1 Problem Solving]({{< baseurl >}}/resources/exam-1-problem-solving-1)
@@ -494,7 +496,7 @@ PROBLEM SETS
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses2-1sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 4.1 in the 4th or 5th edition
+Section 4.1 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Problem Solving: Orthogonal Vectors and Subspaces]({{< baseurl >}}/resources/problem-solving-orthogonal-vectors-and-subspaces-1)
@@ -523,7 +525,7 @@ Section 4.1 in the 4th or 5th edition
 {{< tdopen >}}
 
 
-Section 4.2 in the 4th or 5th edition
+Section 4.2 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 
 
 {{< tdclose >}}
@@ -552,7 +554,7 @@ Section 4.2 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses2-3sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 4.3 in the 4th or 5th edition
+Section 4.3 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Problem Solving: Least Squares Approximation]({{< baseurl >}}/resources/problem-solving-least-squares-approximation-1)
@@ -579,7 +581,7 @@ Section 4.3 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses2-4sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 4.4 in the 4th or 5th edition
+Section 4.4 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Problem Solving: Gram-Schmidt Orthogonalization]({{< baseurl >}}/resources/problem-solving-gram-schmidt-orthogonalization-1)
@@ -606,7 +608,7 @@ Section 4.4 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses2-5sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 5.1 in the 4th or 5th edition
+Section 5.1 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Problem Solving: Properties of Determinants]({{< baseurl >}}/resources/problem-solving-properties-of-determinants-1)
@@ -633,7 +635,7 @@ Section 5.1 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses2-6sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 5.2 in the 4th or 5th edition
+Section 5.2 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -666,7 +668,7 @@ Section 5.2 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses2-7sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 5.3 in the 4th or 5th edition
+Section 5.3 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -699,7 +701,7 @@ Section 5.3 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses2-8sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 6.1 through 6.2 in the 4th or 5th edition
+Section 6.1 through 6.2 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Problem Solving: Eigenvalues and Eigenvectors]({{< baseurl >}}/resources/problem-solving-eigenvalues-and-eigenvectors-1)
@@ -726,7 +728,7 @@ Section 6.1 through 6.2 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses2-9sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 6.2 in the 4th or 5th edition
+Section 6.2 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Problem Solving: Powers of a Matrix]({{< baseurl >}}/resources/problem-solving-powers-of-a-matrix-1)
@@ -753,7 +755,7 @@ Section 6.2 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses2-10sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 6.3 in the 4th or 5th edition
+Section 6.3 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -786,7 +788,7 @@ Section 6.3 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses2-11sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 8.3 and 8.5 in the 4th edition or Sections 10.3 and 10.5 in the 5th edition
+Section 8.3 and 8.5 in the 4{{< sup "th" >}} edition or Sections 10.3 and 10.5 in the 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Problem Solving: Markov Matrices]({{< baseurl >}}/resources/problem-solving-markov-matrices-1)
@@ -814,7 +816,7 @@ Section 8.3 and 8.5 in the 4th edition or Sections 10.3 and 10.5 in the 5th edit
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses2-12sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Review Chapters 4, 5, and 6 (through Sec. 6.3) plus Sections 8.3 and 8.5 in the 4th edition or Review Chapters 4, 5, and 6 (through Sec. 6.3) plus Sections 10.3 and 10.5 in the 5th edition
+Review Chapters 4, 5, and 6 (through Sec. 6.3) plus Sections 8.3 and 8.5 in the 4{{< sup "th" >}} edition or Review Chapters 4, 5, and 6 (through Sec. 6.3) plus Sections 10.3 and 10.5 in the 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -906,7 +908,7 @@ PROBLEM SETS
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-1sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 6.4 through 6.5 in the 4th or 5th edition
+Section 6.4 through 6.5 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Problem Solving: Symmetric Matrices and Positive Definiteness]({{< baseurl >}}/resources/problem-solving-symmetric-matrices-and-positive-definiteness-1)
@@ -935,7 +937,7 @@ Section 6.4 through 6.5 in the 4th or 5th edition
 {{< tdopen >}}
 
 
-Section 10.2 through 10.3 in the 4th edition or Section 9.2 and 9.3 in the 5th edition
+Section 10.2 through 10.3 in the 4{{< sup "th" >}} edition or Section 9.2 and 9.3 in the 5{{< sup "th" >}} edition
 
 
 {{< tdclose >}}
@@ -964,7 +966,7 @@ Section 10.2 through 10.3 in the 4th edition or Section 9.2 and 9.3 in the 5th e
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-3sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 6.5 in the 4th or 5th edition
+Section 6.5 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Problem Solving: Positive Definite Matrices and Minima]({{< baseurl >}}/resources/problem-solving-positive-definite-matrices-and-minima-1)
@@ -991,7 +993,7 @@ Section 6.5 in the 4th or 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-4sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 6.6 in the 4th edition or Section 6.2 in the 5th edition
+Section 6.6 in the 4{{< sup "th" >}} edition or Section 6.2 in the 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Problem Solving: Similar Matrices]({{< baseurl >}}/resources/problem-solving-similar-matrices-1)
@@ -1018,7 +1020,7 @@ Section 6.6 in the 4th edition or Section 6.2 in the 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-5sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 6.7 in the 4th edition or Section 7.1 and 7.2 in the 5th edition
+Section 6.7 in the 4{{< sup "th" >}} edition or Section 7.1 and 7.2 in the 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Problem Solving: Determinants and VolumeComputing the Singular Value Decomposition]({{< baseurl >}}/resources/problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition-1)
@@ -1045,7 +1047,7 @@ Section 6.7 in the 4th edition or Section 7.1 and 7.2 in the 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-6sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 7.1 in the 4th edition or Section 8.1 in the 5th edition
+Section 7.1 in the 4{{< sup "th" >}} edition or Section 8.1 in the 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Problem Solving: Linear Transformations]({{< baseurl >}}/resources/problem-solving-linear-transformations-1)
@@ -1072,7 +1074,7 @@ Section 7.1 in the 4th edition or Section 8.1 in the 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-7sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 7.2 in the 4th edition or Section 8.2 in the 5th edition
+Section 7.2 in the 4{{< sup "th" >}} edition or Section 8.2 in the 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Problem Solving: Change of Basis]({{< baseurl >}}/resources/problem-solving-change-of-basis-1)
@@ -1099,7 +1101,7 @@ Section 7.2 in the 4th edition or Section 8.2 in the 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-8sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Section 7.3 in the 4th edition or Section 8.3 in the 5th edition
+Section 7.3 in the 4{{< sup "th" >}} edition or Section 8.3 in the 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Problem Solving: Pseudoinverses]({{< baseurl >}}/resources/problem-solving-pseudoinverses-1)
@@ -1126,7 +1128,7 @@ Section 7.3 in the 4th edition or Section 8.3 in the 5th edition
 [Lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-9sum)
 {{< tdclose >}}
 {{< tdopen >}}
-Review Chapters 6 and 7, plus Sections 10.2 through 10.3 in the 4th edition or Review Chapters 6, 7, and 8 plus Sections 9.2 through 9.3 in the 5th edition
+Review Chapters 6 and 7, plus Sections 10.2 through 10.3 in the 4{{< sup "th" >}} edition or Review Chapters 6, 7, and 8 plus Sections 9.2 through 9.3 in the 5{{< sup "th" >}} edition
 {{< tdclose >}}
 {{< tdopen >}}
 [Exam 3 Problem Solving]({{< baseurl >}}/resources/exam-3-problem-solving-1)

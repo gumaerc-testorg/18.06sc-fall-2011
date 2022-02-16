@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit I: Ax = b and the Four Subspaces'
+parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Independence, Basis and Dimension
 uid: f4986e82-13a7-cf7c-ebaa-aba5fa7882f0
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Read Section 3.5 in the 4th edition or Section 3.4 in the 5th edition.
+*   Read Section 3.5 in the 4{{< sup "th" >}} edition or Section 3.4 in the 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

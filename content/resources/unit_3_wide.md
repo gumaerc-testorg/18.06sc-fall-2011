@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-06sc-linear-algebra-fall-2011/c130e36d70eba3fea7a7830c2ac2f7b7_Unit_3_WIDE.jpg
+file: /media/courses/18-06sc-linear-algebra-fall-2011/c130e36d70eba3fea7a7830c2ac2f7b7_Unit_3_WIDE.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Unit III: Positive Definite Matrices and Applications'
+parent_type: CourseSection
 resourcetype: Image
 title: Unit_3_WIDE.jpg
 uid: c130e36d-70eb-a3fe-a7a7-830c2ac2f7b7

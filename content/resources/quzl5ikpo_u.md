@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-06sc-linear-algebra-fall-2011/0b40037829358f998604b2ac24da1e32_QuZL5IKpO_U.srt
+file: /media/courses/18-06sc-linear-algebra-fall-2011/0b40037829358f998604b2ac24da1e32_QuZL5IKpO_U.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 0b400378-2935-8f99-8604-b2ac24da1e32

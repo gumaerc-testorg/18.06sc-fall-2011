@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
+parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Differential Equations and exp(At)
 uid: 2e8f3fde-52a4-42af-fa1d-8cd0213b4d74
@@ -19,7 +22,7 @@ Session Overview
 {{< tdopen >}}
 
 
-We can copy Taylor's series for _ex_ to define _eAt_ for a matrix _A_. If _A_ is diagonalizable, we can use Λ to find the exact value of _eAt_. This allows us to solve systems of differential equations _d_u / _dt_ = _A_u the same way we solved equations like _dy / dt = ky_.
+We can copy Taylor's series for _e{{< sup "x" >}}_ to define _e{{< sup "At" >}}_ for a matrix _A_. If _A_ is diagonalizable, we can use Λ to find the exact value of _e{{< sup "At" >}}_. This allows us to solve systems of differential equations _d_u / _dt_ = _A_u the same way we solved equations like _dy / dt = ky_.
 
 
 {{< tdclose >}}
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Read Section 6.3 in the 4th or 5th edition.
+*   Read Section 6.3 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

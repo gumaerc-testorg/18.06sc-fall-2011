@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit I: Ax = b and the Four Subspaces'
+parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Matrix Spaces; Rank 1; Small World Graphs
 uid: edaea805-267a-c1a3-9a73-e8d7f348edba
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Read Section 3.3 and 8.2 in the 4th edition or Section 3.3 and 10.1 in the 5th edition.
+*   Read Section 3.3 and 8.2 in the 4{{< sup "th" >}} edition or Section 3.3 and 10.1 in the 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

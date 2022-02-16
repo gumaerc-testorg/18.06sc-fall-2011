@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Positive Definite Matrices and Applications'
+parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Exam 3 Review
 uid: 832ceb87-f20f-cd83-981c-236a6c11e277
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Review Chapters 6 and 7, plus Sections 10.2 through 10.3 in the 4th edition or Review Chapters 6, 7, and 8 plus Sections 9.2 through 9.3 in the 5th edition.
+*   Review Chapters 6 and 7, plus Sections 10.2 through 10.3 in the 4{{< sup "th" >}} edition or Review Chapters 6, 7, and 8 plus Sections 9.2 through 9.3 in the 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

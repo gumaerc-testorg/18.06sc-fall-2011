@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Positive Definite Matrices and Applications'
+parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Similar Matrices and Jordan Form
 uid: b358f2d2-8636-54b7-503b-47b34cc0953a
@@ -19,7 +22,7 @@ Session Overview
 {{< tdopen >}}
 
 
-After a final discussion of positive definite matrices, we learn about "similar" matrices: _B_ = _M−1AM_ for some invertible matrix _M_. Square matrices can be grouped by similarity, and each group has a "nicest" representative in _Jordan normal form_. This form tells at a glance the eigenvalues and the number of eigenvectors.
+After a final discussion of positive definite matrices, we learn about "similar" matrices: _B_ = _M{{< sup "−1" >}}AM_ for some invertible matrix _M_. Square matrices can be grouped by similarity, and each group has a "nicest" representative in _Jordan normal form_. This form tells at a glance the eigenvalues and the number of eigenvectors.
 
 
 {{< tdclose >}}
@@ -39,7 +42,7 @@ Session Activities
 
 ### Suggested Reading
 
-*   Read Section 6.6 in the 4th edition or Section 6.2 in the 5th edition.
+*   Read Section 6.6 in the 4{{< sup "th" >}} edition or Section 6.2 in the 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

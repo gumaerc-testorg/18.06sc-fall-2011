@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: df093ac7-c42d-8cf3-3aeb-2ba906d4fedc
 ---
@@ -28,20 +30,6 @@ Mathematics GIR ![](/images/educator/icon-question-gir.png)
 ### Offered
 
 Every semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A view toward the front of a classroom from over the rows of seats, showing six sliding chalkboards.]({{< resource_file 8e4cf2ae-351b-b082-c3f5-6fa61c6e0278 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Classes met in a lecture hall like this one, with tiers of tablet chairs for 294, sliding chalkboards, and A/V equipment.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

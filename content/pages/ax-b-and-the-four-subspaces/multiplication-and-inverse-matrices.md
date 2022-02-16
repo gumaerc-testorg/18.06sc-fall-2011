@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit I: Ax = b and the Four Subspaces'
+parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Multiplication and Inverse Matrices
 uid: c6606cdd-9775-d774-f694-cdc5e6c30381
@@ -33,13 +36,13 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture < [Multiplication and Inverse Matrices]({{< baseurl >}}/resources/multiplication-and-inverse-matrices)
+*   Watch the video lecture \< [Multiplication and Inverse Matrices]({{< baseurl >}}/resources/multiplication-and-inverse-matrices)
 *   Read the accompanying [lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-3sum)
 *   [Lecture video transcript (PDF)]({{< baseurl >}}/resources/fx4c-jptfgy-1)
 
 ### Suggested Reading
 
-*   Read Section 2.4 through 2.5 in the 4th or 5th edition.
+*   Read Section 2.4 through 2.5 in the 4{{< sup "th" >}} or 5{{< sup "th" >}} edition.
 
 ### Problem Solving Video
 

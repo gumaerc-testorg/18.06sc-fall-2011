@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Diagonalization and Powers of A
 parent_type: CourseSection
+parent_uid: dcb9a660-b4e1-e1d4-837b-ad83344a716e
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.9sol.pdf
 uid: b7f1b40a-2043-0a1f-a722-2bdfa8daa126

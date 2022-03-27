@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Projection Matrices and Least Squares
 parent_type: CourseSection
+parent_uid: 5f12aef9-0a3e-a658-e59c-e968a672c0c2
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.3sol.pdf
 uid: 815ad23f-78e1-1c1a-7d28-2022fc2db3a9

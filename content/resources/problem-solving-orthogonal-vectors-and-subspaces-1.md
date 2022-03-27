@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Problem Solving: Orthogonal Vectors and Subspaces'
 uid: 7b01e635-a0cc-712a-ed3c-eef0a81d8e86
 video_files:

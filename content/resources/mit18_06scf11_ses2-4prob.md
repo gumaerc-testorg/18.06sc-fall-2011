@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Orthogonal Matrices and Gram-Schmidt
 parent_type: CourseSection
+parent_uid: 2376f3e0-0c4d-e0f6-6346-53041d685aed
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.4prob.pdf
 uid: b0aca3af-7546-66df-f0ab-394cf36afaec

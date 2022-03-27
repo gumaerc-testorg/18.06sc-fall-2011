@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Eigenvalues and Eigenvectors
 parent_type: CourseSection
+parent_uid: 3d8f60a8-0fef-5e0f-bd7a-13ad5eb457f7
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.8sum.pdf
 uid: 1999c9f4-accd-bef0-5571-a1014438f8dd

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Matrix Spaces; Rank 1; Small World Graphs
 parent_type: CourseSection
+parent_uid: edaea805-267a-c1a3-9a73-e8d7f348edba
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.11prob.pdf
 uid: 8bcdd1d9-795d-5586-5119-bb010765a021

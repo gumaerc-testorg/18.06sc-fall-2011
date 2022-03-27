@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Markov Matrices; Fourier Series
 parent_type: CourseSection
+parent_uid: 944c197c-016a-0c53-8f01-08eac297793a
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.11sol.pdf
 uid: 2d5daa1e-2d40-1404-0f31-7ebb8d92d1c0

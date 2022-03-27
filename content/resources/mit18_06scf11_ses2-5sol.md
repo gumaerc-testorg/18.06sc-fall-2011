@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Properties of Determinants
 parent_type: CourseSection
+parent_uid: db45d276-fad6-eb49-f42e-287aaa9e22b6
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.5sol.pdf
 uid: 4898a00e-dcd5-ddfa-9a54-5446ff6c2e88

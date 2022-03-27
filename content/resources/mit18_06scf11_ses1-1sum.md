@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: The Geometry of Linear Equations
 parent_type: CourseSection
+parent_uid: ee886403-2dd8-29b4-83a2-ae7dfeb2da55
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.1sum.pdf
 uid: 6913aa2f-37da-da8f-dda3-34168b30339b

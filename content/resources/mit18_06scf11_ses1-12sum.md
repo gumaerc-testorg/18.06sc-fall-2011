@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Graphs, Networks, Incidence Matrices
 parent_type: CourseSection
+parent_uid: 8be90057-9381-41d7-712d-45f0e42d1cfc
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.12sum.pdf
 uid: d71b25b9-42dd-3dec-0ede-49d712deb4b0

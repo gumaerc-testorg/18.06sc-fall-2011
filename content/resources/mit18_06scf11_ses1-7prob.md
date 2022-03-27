@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Solving Ax = 0: Pivot Variables, Special Solutions'
 parent_type: CourseSection
+parent_uid: 0689e9a0-f66b-a169-b57a-71e60e59cfa2
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.7prob.pdf
 uid: 67a97b58-e4ee-19bf-e2ac-57ab94cddff8

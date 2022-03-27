@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Factorization into A = LU
 parent_type: CourseSection
+parent_uid: 2817c81b-0904-0d03-c0c6-34f006d5a20d
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.4sum.pdf
 uid: c5961452-fbb3-1f8a-0b34-ecd0ffc5cdc4

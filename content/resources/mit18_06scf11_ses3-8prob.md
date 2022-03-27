@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Left and Right Inverses; Pseudoinverse
 parent_type: CourseSection
+parent_uid: ab040c17-91a2-dbfe-0cb9-75cf0190634f
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.8prob.pdf
 uid: 41c162f1-f1c6-d4f6-1e42-a556a56b77bf

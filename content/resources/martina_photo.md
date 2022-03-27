@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet the TAs
 parent_type: CourseSection
+parent_uid: 451c7be3-3c2f-f17f-4881-adfa981fc5e7
 resourcetype: Image
 title: martina_photo.jpg
 uid: ec0216b8-40a3-d002-7620-1e9b320d4f22

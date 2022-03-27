@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Exam 1 Review
 parent_type: CourseSection
+parent_uid: e451ffac-351d-687a-8b19-3c0159c4b2a7
 resourcetype: Image
 title: Exam_1_Review.jpg
 uid: f893ffed-3564-39cd-4b5c-9dee6106d39a

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Problem Solving: Determinants and VolumeDifferential Equations and exp(At)'
 uid: 3a480ff0-0a02-3f98-bcd0-268a0ce3014c
 video_files:

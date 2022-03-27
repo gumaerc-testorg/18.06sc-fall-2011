@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Orthogonal Vectors and Subspaces
 parent_type: CourseSection
+parent_uid: fd8c8a4d-fa1b-e88c-ec23-abef203fca2a
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.1sum.pdf
 uid: fdce42d9-c8d8-dc4e-ac7a-9db3c1978e18

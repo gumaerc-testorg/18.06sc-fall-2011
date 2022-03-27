@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Solving Ax = b: Row Reduced Form R'
 parent_type: CourseSection
+parent_uid: 5fa61a8a-cb4b-ace2-b291-fa9364395075
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.8prob.pdf
 uid: 78fb9d04-e3b7-5be1-5219-7bb83fea3d13

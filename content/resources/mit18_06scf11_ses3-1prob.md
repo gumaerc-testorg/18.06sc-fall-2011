@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Symmetric Matrices and Positive Definiteness
 parent_type: CourseSection
+parent_uid: 83daa789-4c9b-a2c7-ac6c-afe27aef0e1c
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.1prob.pdf
 uid: 29d9e326-0562-a012-5d27-537cb6baf3d0

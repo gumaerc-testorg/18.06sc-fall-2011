@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Matrix Spaces; Rank 1; Small World Graphs
 uid: 0ac8efbd-0c16-073c-4c34-e5e79fe9a56a
 video_files:

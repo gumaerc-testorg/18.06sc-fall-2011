@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linear Transformations and their Matrices
 parent_type: CourseSection
+parent_uid: 9b3392d9-9beb-d110-47c3-6d07bc404bbc
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.6sol.pdf
 uid: 7fef2f26-8573-98d5-a960-29f416f07261

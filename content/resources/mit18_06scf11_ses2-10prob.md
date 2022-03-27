@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Differential Equations and exp(At)
 parent_type: CourseSection
+parent_uid: 2e8f3fde-52a4-42af-fa1d-8cd0213b4d74
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.10prob.pdf
 uid: be691a89-76e7-e7b9-4683-4654669c24d7

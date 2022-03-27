@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Complex Matrices; Fast Fourier Transform (FFT)
 parent_type: CourseSection
+parent_uid: d2f78aa2-97e6-82cc-aea1-20a362c5d934
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.2prob.pdf
 uid: ca893871-3de0-8907-994e-9be8b7c8630a

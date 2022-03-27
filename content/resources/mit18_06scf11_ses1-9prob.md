@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Independence, Basis and Dimension
 parent_type: CourseSection
+parent_uid: f4986e82-13a7-cf7c-ebaa-aba5fa7882f0
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.9prob.pdf
 uid: 562c3102-6033-b44a-0549-1b57834a5a0e

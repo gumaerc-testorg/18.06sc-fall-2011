@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Transposes, Permutations, Vector Spaces
 parent_type: CourseSection
+parent_uid: 78c64d70-411e-e481-e2bb-d7a7244a0bf3
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.5prob.pdf
 uid: 32b9793a-7998-e092-96cd-6234fe7e9017

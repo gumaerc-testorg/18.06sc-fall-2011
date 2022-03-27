@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exam 2 Review
 parent_type: CourseSection
+parent_uid: 1d326649-6e08-30e5-7e06-9f94d70f88bb
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.12sum.pdf
 uid: 5500c16a-ff18-ebcc-312d-f763e8f85992

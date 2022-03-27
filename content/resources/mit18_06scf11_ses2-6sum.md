@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Determinant Formulas and Cofactors
 parent_type: CourseSection
+parent_uid: 172571ec-1468-8c38-e3a6-02925af8e7d9
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.6sum.pdf
 uid: cc79f04d-92ee-2827-5878-0bac2ec5e403

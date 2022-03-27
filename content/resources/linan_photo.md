@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet the TAs
 parent_type: CourseSection
+parent_uid: 451c7be3-3c2f-f17f-4881-adfa981fc5e7
 resourcetype: Image
 title: linan_photo.jpg
 uid: 1218771a-3383-9c95-24a4-f40f701edb03

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Singular Value Decomposition
 parent_type: CourseSection
+parent_uid: 30164ec6-9f85-8d02-0a13-78d8b9c366fe
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.5prob.pdf
 uid: bcb9475b-6b6b-0e5a-600d-af900aa8ead0

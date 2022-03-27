@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
+parent_uid: 7aadf934-9df8-d886-6462-55a5ab83e424
 resourcetype: Document
 title: MIT18_06SCF11_final_exs.pdf
 uid: 03fa86c6-72ca-b6cc-e168-955824c92f6e

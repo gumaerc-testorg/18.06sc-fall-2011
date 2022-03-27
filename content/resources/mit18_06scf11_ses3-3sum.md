@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Positive Definite Matrices and Minima
 parent_type: CourseSection
+parent_uid: c75e4546-e980-a4f3-4fba-9c17295b6b7b
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.3sum.pdf
 uid: d163e012-7542-58d3-b374-548504d8a18a

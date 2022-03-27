@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Final Course Review
 parent_type: CourseSection
+parent_uid: a59901ce-cbc5-cc41-0b70-2826dc2ae39b
 resourcetype: Image
 title: Final_Course_Review.jpg
 uid: 1b8ec766-687e-f5d4-a653-6ef2b1e89e2c

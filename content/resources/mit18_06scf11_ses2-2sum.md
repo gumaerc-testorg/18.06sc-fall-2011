@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Projections onto Subspaces
 parent_type: CourseSection
+parent_uid: 1ff24ba8-67b5-ac72-fcad-41dcf3e79e10
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.2sum.pdf
 uid: 00e9c8f0-eafe-deab-21a3-d079a17ed3d8

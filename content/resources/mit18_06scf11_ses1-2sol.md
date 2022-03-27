@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Elimination with Matrices
 parent_type: CourseSection
+parent_uid: 060c0abf-f399-49c6-f5be-ff6291e747a5
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.2sol.pdf
 uid: 43e6b5f1-1759-83c7-220c-e471d4a93317

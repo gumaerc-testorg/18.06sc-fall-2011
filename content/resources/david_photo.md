@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet the TAs
 parent_type: CourseSection
+parent_uid: 451c7be3-3c2f-f17f-4881-adfa981fc5e7
 resourcetype: Image
 title: David_Photo.jpg
 uid: 6209c27d-7560-bd32-ef38-618739bb8dd2

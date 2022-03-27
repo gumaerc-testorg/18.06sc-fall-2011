@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Multiplication and Inverse Matrices
 parent_type: CourseSection
+parent_uid: c6606cdd-9775-d774-f694-cdc5e6c30381
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.3sol.pdf
 uid: d2dc903c-a48f-3d1f-fa15-28abde719c94

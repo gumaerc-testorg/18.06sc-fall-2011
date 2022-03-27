@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Cramer''s Rule, Inverse Matrix and Volume'
 uid: 99623eb2-15f9-f22c-4b1c-6d99be4334aa
 video_files:

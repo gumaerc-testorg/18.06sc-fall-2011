@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Unit III: Positive Definite Matrices and Applications'
 parent_type: CourseSection
+parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 resourcetype: Image
 title: Unit_3_WIDE.jpg
 uid: c130e36d-70eb-a3fe-a7a7-830c2ac2f7b7

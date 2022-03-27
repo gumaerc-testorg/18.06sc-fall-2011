@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: An Overview of Key Ideas
 parent_type: CourseSection
+parent_uid: ff755187-ef48-26e2-abaf-b9c76026cfdb
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.13sum.pdf
 uid: ca8b2f24-428c-3ab6-c747-57ae5ff5056b

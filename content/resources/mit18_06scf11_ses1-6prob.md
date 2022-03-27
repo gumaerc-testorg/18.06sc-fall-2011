@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Column Space and Nullspace
 parent_type: CourseSection
+parent_uid: bb16f055-bb0c-2fa6-b00b-24a82c138877
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.6prob.pdf
 uid: 255ec48e-5183-55a8-ef94-b086e3a5a247

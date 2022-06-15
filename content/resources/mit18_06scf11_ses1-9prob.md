@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem sets related to independence, basis, and
   dimension.
-file: /media/courses/18-06sc-linear-algebra-fall-2011/562c31026033b44a05491b57834a5a0e_MIT18_06SCF11_Ses1.9prob.pdf
+file: /courses/18-06sc-linear-algebra-fall-2011/562c31026033b44a05491b57834a5a0e_MIT18_06SCF11_Ses1.9prob.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,4 +12,8 @@ parent_uid: f4986e82-13a7-cf7c-ebaa-aba5fa7882f0
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.9prob.pdf
 uid: 562c3102-6033-b44a-0549-1b57834a5a0e
+video_metadata:
+  youtube_id: null
 ---
+This resource contains problem sets related to independence, basis, and dimension.
+

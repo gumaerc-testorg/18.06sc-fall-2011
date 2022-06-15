@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit III: Positive Definite Matrices and Applications'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Similar Matrices and Jordan Form
 uid: b358f2d2-8636-54b7-503b-47b34cc0953a
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima) | [Next]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/singular-value-decomposition) »
+« {{% resource_link c75e4546-e980-a4f3-4fba-9c17295b6b7b "Previous" %}} | {{% resource_link 30164ec6-9f85-8d02-0a13-78d8b9c366fe "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +20,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Figure excerpted from 'Introduction to Linear Algebra' by G.S. Strang]({{< resource_file bfd7faab-e016-71d6-8d35-acd3909a0756 >}})
+{{< resource bfd7faab-e016-71d6-8d35-acd3909a0756 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -36,9 +39,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture [Lecture 28: Similar Matrices and Jordan Form]({{< baseurl >}}/resources/lecture-28-similar-matrices-and-jordan-form)
-*   Read the accompanying [lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-4sum)
-*   [Lecture video transcript (PDF)]({{< baseurl >}}/resources/tsdxjw83kya-1)
+*   Watch the video lecture {{% resource_link 5fca0aa3-ca0a-0945-5e12-08883f302be6 "Lecture 28: Similar Matrices and Jordan Form" %}}
+*   Read the accompanying {{% resource_link 6e1f793f-6c25-fd39-e002-c100e278bf1b "lecture summary (PDF)" %}}
+*   {{% resource_link 6dba2d87-9d4f-00b4-1cdc-fca2fde10a3c "Lecture video transcript (PDF)" %}}
 
 ### Suggested Reading
 
@@ -46,8 +49,8 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on [Problem Solving: Similar Matrices]({{< baseurl >}}/resources/problem-solving-similar-matrices)
-*   [Recitation video transcript (PDF)]({{< baseurl >}}/resources/kuuxdk_v7to-1)
+*   Watch the recitation video on {{% resource_link 30230dff-522f-6273-7c2d-c3a8698cbeaf "Problem Solving: Similar Matrices" %}}
+*   {{% resource_link d884415d-8533-b2bc-e595-c5817459c53f "Recitation video transcript (PDF)" %}}
 
 Check Yourself
 --------------
@@ -56,7 +59,7 @@ Check Yourself
 
 Work the problems on your own and check your answers when you're done.
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-4prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-4sol)
+*   {{% resource_link dd8682e0-d4a5-df4c-e8b5-d65095a63592 "Problems (PDF)" %}}
+*   {{% resource_link d3ee9566-4627-55a6-7ad9-d3af243cd17a "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima) | [Next]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/singular-value-decomposition) »
+« {{% resource_link c75e4546-e980-a4f3-4fba-9c17295b6b7b "Previous" %}} | {{% resource_link 30164ec6-9f85-8d02-0a13-78d8b9c366fe "Next" %}} »

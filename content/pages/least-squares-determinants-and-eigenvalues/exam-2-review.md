@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides review materials for the second exam of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Exam 2 Review
 uid: 1d326649-6e08-30e5-7e06-9f94d70f88bb
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series) | [Next]({{< baseurl >}}/pages/least-squares-determinants-and-eigenvalues/exam-2) »
+« {{% resource_link 944c197c-016a-0c53-8f01-08eac297793a "Previous" %}} | {{% resource_link afe66f8e-2c8a-f216-34f4-261b58ca7f09 "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +20,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Figure excerpted from 'Introduction to Linear Algebra' by G.S. Strang]({{< resource_file dfe25c7f-5e38-dbd4-a19c-081f05fc9ae0 >}})
+{{< resource dfe25c7f-5e38-dbd4-a19c-081f05fc9ae0 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -36,9 +39,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture [Exam 2 Review]({{< baseurl >}}/resources/exam-2-review)
-*   Read the accompanying [lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses2-12sum)
-*   [Lecture video transcript (PDF)]({{< baseurl >}}/resources/quzl5ikpo_u-1)
+*   Watch the video lecture {{% resource_link 2217a82f-b2d9-5892-4674-719da33655c8 "Exam 2 Review" %}}
+*   Read the accompanying {{% resource_link 5500c16a-ff18-ebcc-312d-f763e8f85992 "lecture summary (PDF)" %}}
+*   {{% resource_link f29ba440-690b-f171-f209-c6fd9ba253d6 "Lecture video transcript (PDF)" %}}
 
 ### Suggested Reading
 
@@ -46,8 +49,8 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on [Exam 2 Problem Solving]({{< baseurl >}}/resources/exam-2-problem-solving)
-*   [Recitation video transcript (PDF)]({{< baseurl >}}/resources/pz3zyuo2gpm-1)
-*   观看视频: 习题讲解 -- [第二次考试例题]({{< baseurl >}}/resources/7b2c4e8c6b2180038bd54f8b9898) \[watch this recitation in Mandarin\]
+*   Watch the recitation video on {{% resource_link cc826f0d-28ea-422c-b165-3b59125aef93 "Exam 2 Problem Solving" %}}
+*   {{% resource_link 10c6dd84-28b4-f011-299e-3b905bee4c11 "Recitation video transcript (PDF)" %}}
+*   观看视频: 习题讲解 -- {{% resource_link e56d16d4-a249-bf6b-ce7c-bf6fe96a0778 "第二次考试例题" %}} \[watch this recitation in Mandarin\]
 
-« [Previous]({{< baseurl >}}/pages/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series) | [Next]({{< baseurl >}}/pages/least-squares-determinants-and-eigenvalues/exam-2) »
+« {{% resource_link 944c197c-016a-0c53-8f01-08eac297793a "Previous" %}} | {{% resource_link afe66f8e-2c8a-f216-34f4-261b58ca7f09 "Next" %}} »

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a lesson on vectors.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit I: Ax = b and the Four Subspaces'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Matrix Spaces; Rank 1; Small World Graphs
 uid: edaea805-267a-c1a3-9a73-e8d7f348edba
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces) | [Next]({{< baseurl >}}/pages/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices) »
+« {{% resource_link 0050fe07-f47a-b375-ac0f-3abe492f8ae1 "Previous" %}} | {{% resource_link 8be90057-9381-41d7-712d-45f0e42d1cfc "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +20,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Figure excerpted from 'Introduction to Linear Algebra' by G.S. Strang]({{< resource_file 1a996e59-58c5-7bb8-d1e2-0ee155a8884f >}})
+{{< resource 1a996e59-58c5-7bb8-d1e2-0ee155a8884f >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -36,9 +39,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture [Matrix Spaces; Rank 1; Small World Graphs]({{< baseurl >}}/resources/matrix-spaces-rank-1-small-world-graphs)
-*   Read the accompanying [lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-11sum)
-*   [Lecture video transcript (PDF)]({{< baseurl >}}/resources/2idtqgm6kwu-1)
+*   Watch the video lecture {{% resource_link 0ac8efbd-0c16-073c-4c34-e5e79fe9a56a "Matrix Spaces; Rank 1; Small World Graphs" %}}
+*   Read the accompanying {{% resource_link 732789d4-b5c1-247c-cab5-faf13b6f29d2 "lecture summary (PDF)" %}}
+*   {{% resource_link 0165be6d-5715-e8b1-d4b7-7bef22e614d5 "Lecture video transcript (PDF)" %}}
 
 ### Suggested Reading
 
@@ -46,8 +49,8 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on [Matrix Spaces]({{< baseurl >}}/resources/matrix-spaces)
-*   [Recitation video transcript (PDF)]({{< baseurl >}}/resources/baboztm9q1w-1)
+*   Watch the recitation video on {{% resource_link d3632ad4-c876-cabb-2cd7-e4e2c0ce0c5a "Matrix Spaces" %}}
+*   {{% resource_link 7db51b0e-be09-6ee5-7bb0-e6bcf9a1b43d "Recitation video transcript (PDF)" %}}
 
 Check Yourself
 --------------
@@ -56,7 +59,7 @@ Check Yourself
 
 Work the problems on your own and check your answers when you're done.
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-11prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-11sol)
+*   {{% resource_link 8bcdd1d9-795d-5586-5119-bb010765a021 "Problems (PDF)" %}}
+*   {{% resource_link f203b1eb-f66c-210c-62e5-730a4b9f9f6d "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces) | [Next]({{< baseurl >}}/pages/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices) »
+« {{% resource_link 0050fe07-f47a-b375-ac0f-3abe492f8ae1 "Previous" %}} | {{% resource_link 8be90057-9381-41d7-712d-45f0e42d1cfc "Next" %}} »

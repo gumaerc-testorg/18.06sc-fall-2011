@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-06sc-linear-algebra-fall-2011/9453ea0a94bc7c74ec1fd1b5a1735673_Exam_1.jpg
+file: /courses/18-06sc-linear-algebra-fall-2011/9453ea0a94bc7c74ec1fd1b5a1735673_Exam_1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,4 +15,6 @@ parent_uid: f5c6f676-32a0-d7e7-bcdf-bc97569b662f
 resourcetype: Image
 title: Exam_1.jpg
 uid: 9453ea0a-94bc-7c74-ec1f-d1b5a1735673
+video_metadata:
+  youtube_id: null
 ---

@@ -1,11 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-06sc-linear-algebra-fall-2011/fb51b340570267316fcc14d0d3a07777_hSRcHTafkjE.pdf
+file: /courses/18-06sc-linear-algebra-fall-2011/fb51b340570267316fcc14d0d3a07777_hSRcHTafkjE.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: fb51b340-5702-6731-6fcc-14d0d3a07777
+video_metadata:
+  youtube_id: null
 ---

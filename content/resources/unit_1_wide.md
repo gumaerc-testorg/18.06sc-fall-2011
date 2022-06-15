@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-06sc-linear-algebra-fall-2011/50ce4d8cddfa06b9c4d84f7e03a7e0e7_Unit_1_WIDE.jpg
+file: /courses/18-06sc-linear-algebra-fall-2011/50ce4d8cddfa06b9c4d84f7e03a7e0e7_Unit_1_WIDE.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,4 +15,6 @@ parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 resourcetype: Image
 title: Unit_1_WIDE.jpg
 uid: 50ce4d8c-ddfa-06b9-c4d8-4f7e03a7e0e7
+video_metadata:
+  youtube_id: null
 ---

@@ -1,11 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-06sc-linear-algebra-fall-2011/c2274531c7865da19fadf7b4562aed7f_23LLB9mNJvc.vtt
+file: /courses/18-06sc-linear-algebra-fall-2011/c2274531c7865da19fadf7b4562aed7f_23LLB9mNJvc.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: c2274531-c786-5da1-9fad-f7b4562aed7f
+video_metadata:
+  youtube_id: null
 ---

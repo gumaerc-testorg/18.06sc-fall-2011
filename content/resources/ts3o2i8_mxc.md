@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-06sc-linear-algebra-fall-2011/f985deb56d618a9678ead99e50fb0ccc_Ts3o2I8_Mxc.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

@@ -5,6 +5,7 @@ description: This resource contains solution to problem set related to symmetric
 file: /courses/18-06sc-linear-algebra-fall-2011/0b82b456a287d080f8f390727287105e_MIT18_06SCF11_Ses3.1sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Symmetric Matrices and Positive Definiteness
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solution to problem set related to symmetric matrices and positive definiteness.
-

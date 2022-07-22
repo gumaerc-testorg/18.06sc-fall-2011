@@ -4,6 +4,7 @@ description: This resource contains problem set related to eigenvalues and eigen
 file: /courses/18-06sc-linear-algebra-fall-2011/45bdf363c6f1a564a61fdf61aa86748c_MIT18_06SCF11_Ses2.8prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Eigenvalues and Eigenvectors
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem set related to eigenvalues and eigenvectors.
-

@@ -5,6 +5,7 @@ description: This resource contains information related to linear transformation
 file: /courses/18-06sc-linear-algebra-fall-2011/cc829145eee5220b2024424bcb14c263_MIT18_06SCF11_Ses3.6sum.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Linear Transformations and their Matrices
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to linear transformations and their matrices.
-

@@ -4,6 +4,7 @@ description: This resource contains problem set related to exam 1.
 file: /courses/18-06sc-linear-algebra-fall-2011/170cb8d5b8ee2a2c170d611f87d0525d_MIT18_06SCF11_ex1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exam 1
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem set related to exam 1.
-

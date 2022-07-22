@@ -5,6 +5,7 @@ description: This resource contains problem set related to differential equation
 file: /courses/18-06sc-linear-algebra-fall-2011/be691a8976e7e7b946834654669c24d7_MIT18_06SCF11_Ses2.10prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Differential Equations and exp(At)
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem set related to differential equations and exp(At).
-

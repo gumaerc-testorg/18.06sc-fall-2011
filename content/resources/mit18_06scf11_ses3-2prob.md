@@ -5,6 +5,7 @@ description: This resource contains problem set related to complex matrices; fas
 file: /courses/18-06sc-linear-algebra-fall-2011/ca8938713de08907994e9be8b7c8630a_MIT18_06SCF11_Ses3.2prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Complex Matrices; Fast Fourier Transform (FFT)
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem set related to complex matrices; fast fourier transform (FFT).
-

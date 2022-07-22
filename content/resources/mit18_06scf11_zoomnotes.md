@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-06sc-linear-algebra-fall-2011/c501620f128ab205bc267770934d707a_MIT18_06SCF11_ZoomNotes.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection

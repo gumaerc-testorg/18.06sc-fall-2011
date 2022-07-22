@@ -5,6 +5,7 @@ description: This resource contains problem sets related to independence, basis,
 file: /courses/18-06sc-linear-algebra-fall-2011/562c31026033b44a05491b57834a5a0e_MIT18_06SCF11_Ses1.9prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Independence, Basis and Dimension
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem sets related to independence, basis, and dimension.
-

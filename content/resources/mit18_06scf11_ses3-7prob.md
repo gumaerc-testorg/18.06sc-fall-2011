@@ -5,6 +5,7 @@ description: This resource contains problem set related to change of basis; imag
 file: /courses/18-06sc-linear-algebra-fall-2011/253f93ba4904c5d757f6be7e16b9aeea_MIT18_06SCF11_Ses3.7prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Change of Basis; Image Compression
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem set related to change of basis; image compression.
-

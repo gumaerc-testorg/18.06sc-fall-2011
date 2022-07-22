@@ -5,6 +5,7 @@ description: This resource contains problem set related to left and right invers
 file: /courses/18-06sc-linear-algebra-fall-2011/65f6a7ea1da9932a2939085151ca23a0_MIT18_06SCF11_Ses3.8sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Left and Right Inverses; Pseudoinverse
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem set related to left and right inverses; pseudoinverse.
-

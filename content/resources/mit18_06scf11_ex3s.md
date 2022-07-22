@@ -4,6 +4,7 @@ description: This resource contains solution to the problem set related to exam 
 file: /courses/18-06sc-linear-algebra-fall-2011/92b86aaa4f5f4cce178c69faeb52039e_MIT18_06SCF11_ex3s.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exam 3
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solution to the problem set related to exam 3.
-

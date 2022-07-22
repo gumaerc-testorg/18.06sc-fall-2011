@@ -5,6 +5,7 @@ description: This resource contains solution to the problem sets related to mult
 file: /courses/18-06sc-linear-algebra-fall-2011/d2dc903ca48f3d1ffa1528abde719c94_MIT18_06SCF11_Ses1.3sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Multiplication and Inverse Matrices
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solution to the problem sets related to multiplication and inverse matrices.
-

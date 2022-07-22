@@ -5,6 +5,7 @@ description: This resource contains solution to the problem sets related to the 
 file: /courses/18-06sc-linear-algebra-fall-2011/290a5d857d2a51bf21d4eebf05905620_MIT18_06SCF11_Ses1.1sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: The Geometry of Linear Equations
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solution to the problem sets related to the geometry of linear equations.
-

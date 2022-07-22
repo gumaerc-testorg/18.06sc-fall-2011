@@ -5,6 +5,7 @@ description: This resource contains problem sets related to graphs, networks, an
 file: /courses/18-06sc-linear-algebra-fall-2011/13115844908c991f11d52f44f29ecc11_MIT18_06SCF11_Ses1.12prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Graphs, Networks, Incidence Matrices
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem sets related to graphs, networks, and incidence matrices.
-

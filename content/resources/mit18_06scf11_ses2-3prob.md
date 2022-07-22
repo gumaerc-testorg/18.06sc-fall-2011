@@ -5,6 +5,7 @@ description: This resource contains problem set related to projection matrices a
 file: /courses/18-06sc-linear-algebra-fall-2011/33fdb9f7b7787e26752169e249def994_MIT18_06SCF11_Ses2.3prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projection Matrices and Least Squares
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem set related to projection matrices and least squares.
-

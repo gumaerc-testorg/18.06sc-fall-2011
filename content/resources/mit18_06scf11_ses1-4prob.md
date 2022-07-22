@@ -2,9 +2,18 @@
 content_type: resource
 description: This resource contains problem sets related to factorization into A =
   LU.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-06sc-linear-algebra-fall-2011/0ea3c333ad8f83379b45efd8ffe88729_MIT18_06SCF11_Ses1.4prob.pdf
+file: /courses/18-06sc-linear-algebra-fall-2011/0ea3c333ad8f83379b45efd8ffe88729_MIT18_06SCF11_Ses1.4prob.pdf
 file_type: application/pdf
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+parent_title: Factorization into A = LU
+parent_type: CourseSection
+parent_uid: 2817c81b-0904-0d03-c0c6-34f006d5a20d
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.4prob.pdf
 uid: 0ea3c333-ad8f-8337-9b45-efd8ffe88729
+video_metadata:
+  youtube_id: null
 ---
+This resource contains problem sets related to factorization into A = LU.

@@ -4,6 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
+file_size: ''
 file_type: ''
 image_metadata:
   caption: ''
@@ -31,3 +32,4 @@ video_files:
 video_metadata:
   youtube_id: srxexLishgY
 ---
+The determinant of a matrix is a single number which encodes a lot of information about the matrix. Three simple properties completely describe the determinant. In this lecture we also list seven more properties like detAB = (detA)(detB) that can be derived from the first three.

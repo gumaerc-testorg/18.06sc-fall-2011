@@ -4,12 +4,14 @@ description: ''
 draft: false
 end_time: ''
 file: null
+file_size: ''
 file_type: ''
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -30,3 +32,4 @@ video_files:
 video_metadata:
   youtube_id: YzZUIYRCE38
 ---
+Vectors are discussed in terms of orthogonal bases as well as the Four Fundamental Subspaces.

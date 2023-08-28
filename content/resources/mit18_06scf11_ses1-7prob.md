@@ -4,13 +4,14 @@ description: 'This resource contains problem sets related to solving Ax = 0: piv
   variables, special solutions.'
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/67a97b58e4ee19bfe2ac57ab94cddff8_MIT18_06SCF11_Ses1.7prob.pdf
+file_size: ''
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Problem Sets with Solutions
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Solving Ax = 0: Pivot Variables, Special Solutions'
@@ -20,6 +21,7 @@ resourcetype: Document
 title: MIT18_06SCF11_Ses1.7prob.pdf
 uid: 67a97b58-e4ee-19bf-e2ac-57ab94cddff8
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''

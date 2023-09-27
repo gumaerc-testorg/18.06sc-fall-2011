@@ -1,7 +1,9 @@
 ---
 content_type: resource
 description: ''
+draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/febb7eb13ff97fca8cd0e4fc09f3658c_Final_Exam.jpg
+file_size: ''
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -16,6 +18,14 @@ parent_uid: 7aadf934-9df8-d886-6462-55a5ab83e424
 resourcetype: Image
 title: Final_Exam.jpg
 uid: febb7eb1-3ff9-7fca-8cd0-e4fc09f3658c
+video_files:
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
-  youtube_id: null
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-06sc-linear-algebra-fall-2011/67a71bb469055af18ddd510d052fd63d_pz3zyUO2gpM.vtt
+file_size: 19601
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

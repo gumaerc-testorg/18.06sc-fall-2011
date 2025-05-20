@@ -4,6 +4,7 @@ description: This resource contains problem set related to similar matrices and 
   form.
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/d3ee9566462755a67ad9d3af243cd17a_MIT18_06SCF11_Ses3.4sol.pdf
+file_size: 109583
 file_type: application/pdf
 image_metadata:
   caption: ''

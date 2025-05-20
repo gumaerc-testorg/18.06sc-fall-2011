@@ -4,6 +4,7 @@ description: This resource contains solution to the problem sets related to the 
   fundamental subspaces.
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/68f4777bbcac272c9184347a9849333a_MIT18_06SCF11_Ses1.10sol.pdf
+file_size: 93910
 file_type: application/pdf
 image_metadata:
   caption: ''

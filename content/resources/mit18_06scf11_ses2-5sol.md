@@ -4,6 +4,7 @@ description: This resource contains solution to problem set related to propertie
   of determinants.
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/4898a00edcd5ddfa9a545446ff6c2e88_MIT18_06SCF11_Ses2.5sol.pdf
+file_size: 106253
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,6 +4,7 @@ description: This resource contains problem sets related to independence, basis,
   dimension.
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/562c31026033b44a05491b57834a5a0e_MIT18_06SCF11_Ses1.9prob.pdf
+file_size: 95929
 file_type: application/pdf
 image_metadata:
   caption: ''

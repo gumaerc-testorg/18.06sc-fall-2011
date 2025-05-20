@@ -4,6 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
+file_size: '24067815'
 file_type: ''
 image_metadata:
   caption: ''
@@ -21,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Recitation: Elimination with Matrices'
+title: Elimination with Matrices
 uid: e46f1dae-0d13-84f7-391d-a76db49ba0d4
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_M1_300k.mp4

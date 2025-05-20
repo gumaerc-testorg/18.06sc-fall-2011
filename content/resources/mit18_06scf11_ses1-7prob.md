@@ -4,7 +4,7 @@ description: 'This resource contains problem sets related to solving Ax = 0: piv
   variables, special solutions.'
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/67a97b58e4ee19bfe2ac57ab94cddff8_MIT18_06SCF11_Ses1.7prob.pdf
-file_size: ''
+file_size: 86085
 file_type: application/pdf
 image_metadata:
   caption: ''

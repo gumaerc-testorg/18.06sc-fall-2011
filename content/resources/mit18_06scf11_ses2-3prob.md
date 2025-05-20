@@ -4,6 +4,7 @@ description: This resource contains problem set related to projection matrices a
   least squares.
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/33fdb9f7b7787e26752169e249def994_MIT18_06SCF11_Ses2.3prob.pdf
+file_size: 119043
 file_type: application/pdf
 image_metadata:
   caption: ''

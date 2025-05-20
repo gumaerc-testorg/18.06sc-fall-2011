@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-06sc-linear-algebra-fall-2011/1eca782a385e99a6da5d1bd372d21aae_Nikola_photo.jpg
+file_size: 15314
 file_type: image/jpeg
 image_metadata:
   caption: ''

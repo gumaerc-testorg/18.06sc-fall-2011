@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem set related to singular value decomposition.
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/bcb9475b6b6b0e5a600daf900aa8ead0_MIT18_06SCF11_Ses3.5prob.pdf
+file_size: 93837
 file_type: application/pdf
 image_metadata:
   caption: ''

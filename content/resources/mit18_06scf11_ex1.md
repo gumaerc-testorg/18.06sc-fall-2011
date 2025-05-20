@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem set related to exam 1.
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/170cb8d5b8ee2a2c170d611f87d0525d_MIT18_06SCF11_ex1.pdf
+file_size: 112855
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: ''
+file_size: '108128339'
 file_type: ''
 image_metadata:
   caption: ''
@@ -22,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Lecture: Elimination with Matrices'
+title: Elimination with Matrices
 uid: da3102b8-3af8-ca9c-5195-00bb85334fcc
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/02.mp4

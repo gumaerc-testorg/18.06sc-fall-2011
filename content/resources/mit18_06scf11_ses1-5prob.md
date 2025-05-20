@@ -4,6 +4,7 @@ description: This resource contains problem sets related to transposes, permutat
   spaces.
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/32b9793a7998e09296cd6234fe7e9017_MIT18_06SCF11_Ses1.5prob.pdf
+file_size: 90462
 file_type: application/pdf
 image_metadata:
   caption: ''

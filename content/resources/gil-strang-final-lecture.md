@@ -3,14 +3,14 @@ body: ''
 content_type: resource
 draft: false
 file: null
-file_size: ''
+file_size: '383796477'
 file_type: ''
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Videos
+- Other Video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: Gil Strang's Final 18.06 Linear Algebra Lecture

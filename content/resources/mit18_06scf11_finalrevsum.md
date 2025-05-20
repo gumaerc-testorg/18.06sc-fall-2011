@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to final course review.
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/89e753b45eed437828821e585bed0e59_MIT18_06SCF11_FinalRevsum.pdf
-file_size: ''
+file_size: 113046
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Final Course Review

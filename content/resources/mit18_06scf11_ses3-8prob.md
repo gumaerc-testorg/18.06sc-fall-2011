@@ -4,6 +4,7 @@ description: This resource contains problem set related to left and right invers
   pseudoinverse.
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/41c162f1f1c6d4f61e42a556a56b77bf_MIT18_06SCF11_Ses3.8prob.pdf
+file_size: 69037
 file_type: application/pdf
 image_metadata:
   caption: ''

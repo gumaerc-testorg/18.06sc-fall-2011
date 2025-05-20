@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to properties of determinants.
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/5dd3f8ec0a398fd74264fef3fd591f81_MIT18_06SCF11_Ses2.5sum.pdf
+file_size: 112799
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: This resource contains solution to problem set related to linear tr
   and their matrices.
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/7fef2f26857398d5a96029f416f07261_MIT18_06SCF11_Ses3.6sol.pdf
-file_size: ''
+file_size: 99792
 file_type: application/pdf
 image_metadata:
   caption: ''

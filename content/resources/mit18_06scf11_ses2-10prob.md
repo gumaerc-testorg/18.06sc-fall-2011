@@ -4,6 +4,7 @@ description: This resource contains problem set related to differential equation
   and exp(At).
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/be691a8976e7e7b946834654669c24d7_MIT18_06SCF11_Ses2.10prob.pdf
+file_size: 96467
 file_type: application/pdf
 image_metadata:
   caption: ''

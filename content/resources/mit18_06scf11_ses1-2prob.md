@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem sets related to elimination with matrices.
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/2a96d025346d8845829251cb918caddd_MIT18_06SCF11_Ses1.2prob.pdf
+file_size: 82337
 file_type: application/pdf
 image_metadata:
   caption: ''

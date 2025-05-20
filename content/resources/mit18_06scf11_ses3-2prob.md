@@ -4,6 +4,7 @@ description: This resource contains problem set related to complex matrices; fas
   fourier transform (FFT).
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/ca8938713de08907994e9be8b7c8630a_MIT18_06SCF11_Ses3.2prob.pdf
+file_size: 79234
 file_type: application/pdf
 image_metadata:
   caption: ''

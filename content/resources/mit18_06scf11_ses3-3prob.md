@@ -4,6 +4,7 @@ description: This resource contains problem set related to positive definite mat
   and minima.
 draft: false
 file: /courses/18-06sc-linear-algebra-fall-2011/fdeb589c9d29a1f60e306667dd886dba_MIT18_06SCF11_Ses3.3prob.pdf
+file_size: 90766
 file_type: application/pdf
 image_metadata:
   caption: ''

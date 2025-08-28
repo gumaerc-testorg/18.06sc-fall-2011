@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem sets related to multiplication and inverse
   matrices.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/8e9ccbcc13300a9bda7f24a684bd16b6_MIT18_06SCF11_Ses1.3prob.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/8e9ccbcc13300a9bda7f24a684bd16b6_MIT18_06SCF11_Ses1.3prob.pdf
 file_size: 87737
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem sets related to the geometry of linear
   equations.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/f511d20996159f321b6704f5b2070e04_MIT18_06SCF11_Ses1.1prob.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/f511d20996159f321b6704f5b2070e04_MIT18_06SCF11_Ses1.1prob.pdf
 file_size: 93686
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to change of basis; image
   compression.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/7ce6815ffe9ec37129e581485494acde_MIT18_06SCF11_Ses3.7sum.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/7ce6815ffe9ec37129e581485494acde_MIT18_06SCF11_Ses3.7sum.pdf
 file_size: 130677
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solution to problem set related to positive definite
   matrices and minima.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/a034549dadd99fe2c7278d6412ddc39f_MIT18_06SCF11_Ses3.3sol.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/a034549dadd99fe2c7278d6412ddc39f_MIT18_06SCF11_Ses3.3sol.pdf
 file_size: 108307
 file_type: application/pdf
 image_metadata:

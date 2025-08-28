@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to final course review.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/89e753b45eed437828821e585bed0e59_MIT18_06SCF11_FinalRevsum.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/89e753b45eed437828821e585bed0e59_MIT18_06SCF11_FinalRevsum.pdf
 file_size: 113046
 file_type: application/pdf
 image_metadata:

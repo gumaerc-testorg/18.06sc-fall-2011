@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to exam 2 review.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/5500c16aff18ebcc312df763e8f85992_MIT18_06SCF11_Ses2.12sum.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/5500c16aff18ebcc312df763e8f85992_MIT18_06SCF11_Ses2.12sum.pdf
 file_size: 162361
 file_type: application/pdf
 image_metadata:

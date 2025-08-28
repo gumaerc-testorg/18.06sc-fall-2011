@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for linear algebra.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/cf325539d9694ecc903896ebbe64b448_HexagonArt.m
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/cf325539d9694ecc903896ebbe64b448_HexagonArt.m
 file_size: 1052
 file_type: text/x-objcsrc
 image_metadata:

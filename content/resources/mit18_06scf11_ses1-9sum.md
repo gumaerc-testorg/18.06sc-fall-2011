@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to independence, basis, and
   dimension.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/0bbc30e3f1d7933ea07a2d2e9ab050d9_MIT18_06SCF11_Ses1.9sum.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/0bbc30e3f1d7933ea07a2d2e9ab050d9_MIT18_06SCF11_Ses1.9sum.pdf
 file_size: 120696
 file_type: application/pdf
 image_metadata:

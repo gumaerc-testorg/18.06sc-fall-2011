@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem set related to exam 2.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/2a49ca623b8057f0b8dbcccc252db815_MIT18_06SCF11_ex2.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/2a49ca623b8057f0b8dbcccc252db815_MIT18_06SCF11_ex2.pdf
 file_size: 127455
 file_type: application/pdf
 image_metadata:

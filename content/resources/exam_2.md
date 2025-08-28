@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-06sc-linear-algebra-fall-2011/5f796b5879aca8e130134f607815f9c8_Exam_2.jpg
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/5f796b5879aca8e130134f607815f9c8_Exam_2.jpg
 file_size: 4776
 file_type: image/jpeg
 image_metadata:

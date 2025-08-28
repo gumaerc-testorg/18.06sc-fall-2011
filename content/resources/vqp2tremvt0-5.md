@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-06sc-linear-algebra-fall-2011/b8ec077a90335789bab9fc1b655c2a21_VqP2tREMvt0.vtt
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/b8ec077a90335789bab9fc1b655c2a21_VqP2tREMvt0.vtt
 file_size: 47238
 file_type: application/x-subrip
 learning_resource_types: []

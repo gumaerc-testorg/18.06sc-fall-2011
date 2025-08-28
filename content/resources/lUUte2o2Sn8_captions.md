@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/lUUte2o2Sn8_captions.webvtt
 file_size: 91819
 file_type: application/x-subrip
 learning_resource_types: []

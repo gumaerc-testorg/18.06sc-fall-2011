@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-06sc-linear-algebra-fall-2011/a1896ecfb760056166628ff87dd25156_5IGTFgPqlkw.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/a1896ecfb760056166628ff87dd25156_5IGTFgPqlkw.pdf
 file_size: 17106
 file_type: application/pdf
 learning_resource_types: []

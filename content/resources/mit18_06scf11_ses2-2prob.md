@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem set related to projections onto subspaces.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/0f9710135b3fbcb08477ed8534c07229_MIT18_06SCF11_Ses2.2prob.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/0f9710135b3fbcb08477ed8534c07229_MIT18_06SCF11_Ses2.2prob.pdf
 file_size: 77007
 file_type: application/pdf
 image_metadata:

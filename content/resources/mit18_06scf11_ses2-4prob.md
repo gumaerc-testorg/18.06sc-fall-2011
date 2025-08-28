@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem set related to orthogonal matrices and
   gram-schmidt.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/b0aca3af754666dff0ab394cf36afaec_MIT18_06SCF11_Ses2.4prob.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/b0aca3af754666dff0ab394cf36afaec_MIT18_06SCF11_Ses2.4prob.pdf
 file_size: 80961
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solution to the problem sets related to independence,
   basis, and dimension.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/793cbea8c118cf3b30ba2944a5c61dee_MIT18_06SCF11_Ses1.9sol.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/793cbea8c118cf3b30ba2944a5c61dee_MIT18_06SCF11_Ses1.9sol.pdf
 file_size: 109280
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to solving Ax = 0: pivot
   variables, special solutions.'
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/dddb31dfe72d2e2e2fd09e74713b7775_MIT18_06SCF11_Ses1.7sum.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/dddb31dfe72d2e2e2fd09e74713b7775_MIT18_06SCF11_Ses1.7sum.pdf
 file_size: 114487
 file_type: application/pdf
 image_metadata:

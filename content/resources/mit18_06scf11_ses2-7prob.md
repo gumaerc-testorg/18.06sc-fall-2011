@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem set related to cramer's rule, inverse
   matrix and volume.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/d91543439c69ed9a21cf24981ab4ba98_MIT18_06SCF11_Ses2.7prob.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/d91543439c69ed9a21cf24981ab4ba98_MIT18_06SCF11_Ses2.7prob.pdf
 file_size: 97503
 file_type: application/pdf
 image_metadata:

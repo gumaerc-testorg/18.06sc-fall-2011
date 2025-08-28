@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to factorization into A =
   LU.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/c5961452fbb31f8a0b34ecd0ffc5cdc4_MIT18_06SCF11_Ses1.4sum.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/c5961452fbb31f8a0b34ecd0ffc5cdc4_MIT18_06SCF11_Ses1.4sum.pdf
 file_size: 121778
 file_type: application/pdf
 image_metadata:

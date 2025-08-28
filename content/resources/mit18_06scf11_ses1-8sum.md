@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to solving Ax = b and row
   reduced form R.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/f5a74578196a8afc2fd2ba8581acb17f_MIT18_06SCF11_Ses1.8sum.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/f5a74578196a8afc2fd2ba8581acb17f_MIT18_06SCF11_Ses1.8sum.pdf
 file_size: 127751
 file_type: application/pdf
 image_metadata:

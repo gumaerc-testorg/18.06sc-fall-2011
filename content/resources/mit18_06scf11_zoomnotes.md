@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/c501620f128ab205bc267770934d707a_MIT18_06SCF11_ZoomNotes.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/c501620f128ab205bc267770934d707a_MIT18_06SCF11_ZoomNotes.pdf
 file_size: 626231
 file_type: application/pdf
 image_metadata:

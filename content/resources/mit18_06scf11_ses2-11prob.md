@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem set related to markov matrices; fourier
   series.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/bba3c75ae696682ccadae215474141b5_MIT18_06SCF11_Ses2.11prob.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/bba3c75ae696682ccadae215474141b5_MIT18_06SCF11_Ses2.11prob.pdf
 file_size: 97116
 file_type: application/pdf
 image_metadata:

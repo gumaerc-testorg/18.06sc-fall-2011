@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to exam 3 review.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/7285f40986020f97ebe138acc914c66c_MIT18_06SCF11_Ses3.9sum.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/7285f40986020f97ebe138acc914c66c_MIT18_06SCF11_Ses3.9sum.pdf
 file_size: 134744
 file_type: application/pdf
 image_metadata:

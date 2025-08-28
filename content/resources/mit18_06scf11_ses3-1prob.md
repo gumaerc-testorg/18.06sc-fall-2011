@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem set related to symmetric matrices and
   positive definiteness.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/29d9e3260562a0125d27537cb6baf3d0_MIT18_06SCF11_Ses3.1prob.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/29d9e3260562a0125d27537cb6baf3d0_MIT18_06SCF11_Ses3.1prob.pdf
 file_size: 96035
 file_type: application/pdf
 image_metadata:

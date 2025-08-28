@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to singular value decomposition.
 draft: false
-file: /courses/18-06sc-linear-algebra-fall-2011/d273f75ee2552a5c3c35ccab37e5edce_MIT18_06SCF11_Ses3.5sum.pdf
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/d273f75ee2552a5c3c35ccab37e5edce_MIT18_06SCF11_Ses3.5sum.pdf
 file_size: 140601
 file_type: application/pdf
 image_metadata:

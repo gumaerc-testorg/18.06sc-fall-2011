@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/18-06sc-linear-algebra-fall-2011/lUUte2o2Sn8_transcript.pdf
 file_size: 76303
 file_type: application/pdf
 learning_resource_types: []

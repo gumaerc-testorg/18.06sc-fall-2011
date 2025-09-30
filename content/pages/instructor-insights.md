@@ -27,7 +27,7 @@ Mathematics GIR ![](/images/educator/icon-question-gir.png)
 
 ### Requirements Satisfied
 
-18.06 fulfills the linear algebra requirement for the [Bachelor of Science in Mathematics](http://math.mit.edu/academics/undergrad/major/index.php).
+18.06 fulfills the linear algebra requirement for the {{% resource_link "92863f3e-21d5-494c-8c93-a57d8e360a05" "Bachelor of Science in Mathematics" %}}.
 
 ### Offered
 

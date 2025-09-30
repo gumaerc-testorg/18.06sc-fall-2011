@@ -64,9 +64,9 @@ This course, designed for independent study, has been organized to follow the se
 
 Each unit has been further divided into a sequence of sessions that cover an amount you might expect to complete in one sitting. Each session has a video lecture on the topic, accompanied by a lecture summary. For further study, there are suggested readings in Professor Strang's textbook (both the 4th and 5th editions):
 
-Strang, Gilbert. Introduction to Linear Algebra. 4th ed. Wellesley, MA: [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), February 2009. ISBN: 9780980232714
+Strang, Gilbert. Introduction to Linear Algebra. 4th ed. Wellesley, MA: {{% resource_link "5a747996-6bf6-4e88-ba9e-679588566296" "Wellesley-Cambridge Press" %}}, February 2009. ISBN: 9780980232714
 
-Strang, Gilbert. Introduction to Linear Algebra. 5th ed. Wellesley, MA: [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), February 2016. ISBN: 9780980232776
+Strang, Gilbert. Introduction to Linear Algebra. 5th ed. Wellesley, MA: {{% resource_link "5a747996-6bf6-4e88-ba9e-679588566296" "Wellesley-Cambridge Press" %}}, February 2016. ISBN: 9780980232776
 
 Click on the navigation links in the left column to display the sessions in the three units.
 
@@ -80,7 +80,7 @@ MIT expects its students to spend about 150 hours on this course. More than half
 
 This OCW Scholar course was developed by:
 
-- [Gilbert Strang](http://math.mit.edu/~gs/), Professor of Mathematics, Massachusetts Institute of Technology
+- {{% resource_link "250fcc00-4791-44b6-98f7-7df7ead41be1" "Gilbert Strang" %}}, Professor of Mathematics, Massachusetts Institute of Technology
 
 With technical and writing assistance from:
 
